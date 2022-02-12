@@ -1,5 +1,5 @@
 - 👋 Hi, I’m farzad beheshti
-- 👀 I’m interested iphp , css, js , python
+- 👀 I’m interested to php ,React js, java script, , python
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
