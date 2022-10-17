@@ -1,8 +1,7 @@
 - 👋 Hi, I’m farzad beheshti
 - 👀 I’m interested to php ,React js, java script, , python
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently teaching php
+ - 📫 How to reach me : tarrahiweb.com 
 
 <!---
 farzadkb95/farzadkb95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
