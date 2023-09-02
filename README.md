@@ -31,8 +31,7 @@ Designed, built, and maintained over a dozen professional websites for clients. 
 Get in Touch
 I'm always open to exciting new opportunities and projects. Reach out to collab or just say hi!
 
-Let me know if you would like me to modify or expand on this example README draft. I'm happy to tailor it further based on your specific projects and skills you want to highlight.
-<!---
+ <!---
 farzadkb95/farzadkb95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
