@@ -27,7 +27,7 @@ Optimized for performance and SEO to drive traffic and sales.
 Experience
 Designed, built, and maintained over a dozen professional websites for clients. Developed websites generating 35,000+ Instagram followers and 20,000+ course enrollments.
  - 🌱 I’m currently teaching php
- - 📫 How to reach me : tarrahiweb.com 
+ - 📫 How to reach me : tarrahiweb.com or this is my personal emai (farzadkorang@gmail.com ) 
 Get in Touch
 I'm always open to exciting new opportunities and projects. Reach out to collab or just say hi!
 
